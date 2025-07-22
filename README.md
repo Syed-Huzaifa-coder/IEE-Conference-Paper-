@@ -98,13 +98,6 @@ We evaluated multiple supervised ML models:
 
 ---
 
-## 🧾 Research Paper
-
-You can download and read the full research paper [here](.Research Conference Paper.pdf).  
-*(Upload your PDF in the repo and rename accordingly)*
-
----
-
 ## 👥 Team Members
 
 - Syed Huzaifa Bin Khamis  
